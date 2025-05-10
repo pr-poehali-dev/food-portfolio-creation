@@ -32,7 +32,7 @@ const products = [
     name: "Домашний творог",
     description: "Нежный творог из свежего молока без добавок",
     image:
-      "https://images.unsplash.com/photo-1551489186-cf8726f514f8?q=80&w=2070&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1589318848438-87bef708f6bf?q=80&w=1770&auto=format&fit=crop",
     price: 320,
     unit: "500г",
     organic: true,
