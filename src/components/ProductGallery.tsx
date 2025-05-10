@@ -21,7 +21,7 @@ const products = [
     name: "Фермерская морковь",
     description: "Свежая хрустящая морковь с фермерских угодий",
     image:
-      "https://images.unsplash.com/photo-1633655442366-8f5591de1332?q=80&w=1374&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1590868309235-ea34bed7bd7f?q=80&w=1767&auto=format&fit=crop",
     price: 79,
     unit: "кг",
     organic: true,
